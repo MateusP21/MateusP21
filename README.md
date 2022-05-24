@@ -10,6 +10,7 @@ Desenvolvedor Frontend
 
 <a href="https://www.github.com/mateusP21" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mateusP21?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1688276024726961565/9DDC43274660B1A3F9CDFCC4612AC273B964D5D4/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="right">
 
 ### Skills
 
@@ -25,6 +26,7 @@ src="https://img.shields.io/github/followers/mateusP21?logo=github&style=for-the
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
+
 
 
 ### Socials
