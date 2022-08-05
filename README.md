@@ -1,7 +1,7 @@
 Hi 👋 My name is Mateus Passo
 =============================
 
-Desenvolvedor Frontend
+Desenvolvedor Frontend & Backend
 ----------------------
 
 - 🌍  Moro atualmente em Duque de Caxias - RJ
@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/mateusP21?logo=github&style=for-the
 
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jest,react,redux,styledcomponents,nodejs,docker,mysql,sequelize
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jest,react,redux,styledcomponents,nodejs,docker,mysql,tailwind&perline=3
 )](https://skillicons.dev)
 
 
